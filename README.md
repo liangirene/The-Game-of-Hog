@@ -1,5 +1,5 @@
 # The-Game-of-Hog
-In this project, I created a versatile and engaging simulator for the dice game Hog. Leveraging control statements and higher-order functions, I developed a comprehensive gameplay experience that encompasses multiple strategies for winning the game.
+In this project, I created a dynamic and immersive simulator for the dice game Hog. Leveraging control statements and higher-order functions, I developed a comprehensive gameplay experience that encompasses multiple strategies for winning the game.
 
 The simulator provides players with a dynamic environment to explore various approaches to success. By implementing diverse strategies, I aimed to enhance the gameplay experience and challenge players to refine their skills and tactics.
 
